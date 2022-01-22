@@ -21,7 +21,7 @@ I really like to explore new Domains. I am good at analysing and problem solving
     🌱 I’m currently learning Best Practices for Machine Learning Algorithms.
     👯 I’m looking to collaborate on any ML Project.
     🤔 I’m looking for help with Internship.
-    💬 Ask me about Pyhton.
+    💬 Ask me about Python.
     😄 Pronouns: You can give one.
     ⚡ Fun fact: I hate Marvel movies.
  
@@ -51,7 +51,9 @@ I really like to explore new Domains. I am good at analysing and problem solving
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi25jaiswal&layout=compact&theme=midnight-purple"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=ayushi25jaiswal&show_icons=true&theme=cobalt"></img>
 </div>  
-  
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi25jaiswal&theme=cobalt" alt="ayushi25jaiswal" />
+  </div> 
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/ayushi25jaiswal.svg?style=social&label=Follow"></img>
