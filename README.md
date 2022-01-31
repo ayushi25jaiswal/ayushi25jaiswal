@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Ayushi Jaiswal<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<img src="https://user-images.githubusercontent.com/56766678/151759339-06a302b0-6caa-42ab-9802-776e6769eae5.png" alt="myBanner">
+<h1 align="center">Hi Eveyone!!☺️<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 
 --- 
@@ -9,7 +10,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/ayushi25jaiswal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://user-images.githubusercontent.com/56766678/151764755-23af64f6-baae-41f8-b273-2fc0e07271fc.png" alt=github style="margin-bottom: 5px; height:30px ; width:30px; padding:10px" />
 </a>  
 
  
@@ -23,6 +24,21 @@
     💬 Ask me about Python.
     😄 Pronouns: You can give one.
     ⚡ Fun fact: I hate Marvel movies.
+ 
+<!--  <h1> Projects<h1>
+ 
+  <div>
+ <img src="https://user-images.githubusercontent.com/56766678/151760880-83f1690f-75c6-4a96-96f0-fc78aaded1ce.png" alt="ayushi-blog" style="height:250px; width:350px; float: left;padding-right: 20px">
+  </div>
+  
+  <div>
+   <div> <img src="https://user-images.githubusercontent.com/56766678/151761084-0a7d8084-a10f-4c36-a0cd-f2fd7a8fb82b.png" alt="RAKSHA" style="height:250px; width:350px; float: left;"></div>
+  </div>
+  <figure>
+  <figcaption>Ayushi_Blog</figcaption>
+   <img src="https://user-images.githubusercontent.com/56766678/151760880-83f1690f-75c6-4a96-96f0-fc78aaded1ce.png" alt="ayushi-blog" style="height:250px; width:350px; float: left;padding-right: 20px">
+</figure> -->
+ 
  
    
  <h1>Technical Skills 🛠</h1>
