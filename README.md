@@ -9,7 +9,7 @@
  <a href="https://www.linkedin.com/in/ayushi-jaiswal-69804a216" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/ayushi25jaiswal" target="_blank">
+<a href="https://ayushi-blog.herokuapp.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/56766678/151764755-23af64f6-baae-41f8-b273-2fc0e07271fc.png" alt=github style="margin-bottom: 5px; height:30px ; width:30px; padding:10px" />
 </a>  
 
