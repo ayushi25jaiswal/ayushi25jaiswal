@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/56766678/151759339-06a302b0-6caa-42ab-9802-776e6769eae5.png" alt="myBanner" height=300px width=100%>
-<h1 align="center">Hi Eveyone!!☺️<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">🍁 Hi Eveyone 🍁 </h1>
 
 
 --- 
@@ -15,7 +15,7 @@
 
  
 
-**I am a Python Developer❤, currently a third year student pursuing Bachelor of engineering in information technology at Rajasthan Technical University. Programmer who codes in Python. Enthusiastic problem solver and quick learner. New technologies fascinates me and I am always keen to adapt and solve problems.**
+**I am a Python Developer❤, currently a third year student pursuing Bachelor of engineering in information technology at Rajasthan Technical University. Programmer who not at all loves to Code. Slow learner. New technologies fascinates me but I can't keep pace with technology becoz I am NooB🍂.**
 
     
  
