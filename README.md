@@ -15,7 +15,7 @@
 
  
 
-**I am a Python Developer❤, currently a third year student pursuing Bachelor of engineering in information technology at Rajasthan Technical University. Programmer who not at all loves to Code. Slow learner. New technologies fascinates me but I can't keep pace with technology becoz I am NooB🍂.**
+**I am a Python Developer❤, currently a third year student pursuing Bachelor of engineering in information technology at Rajasthan Technical University. I am slow walker but never walk backwards. New technologies fascinates me, trying my best to keep up pace with 🍃.**
 
     
  
