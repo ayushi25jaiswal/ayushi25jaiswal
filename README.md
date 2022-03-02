@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/56766678/151759339-06a302b0-6caa-42ab-9802-776e6769eae5.png" alt="myBanner">
+<img src="https://user-images.githubusercontent.com/56766678/151759339-06a302b0-6caa-42ab-9802-776e6769eae5.png" alt="myBanner" height=300px width=100%>
 <h1 align="center">Hi Eveyone!!☺️<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 
@@ -17,13 +17,7 @@
 
 **I am a Python Developer❤, currently a third year student pursuing Bachelor of engineering in information technology at Rajasthan Technical University. Programmer who codes in Python. Enthusiastic problem solver and quick learner. New technologies fascinates me and I am always keen to adapt and solve problems.**
 
-    🔭 I’m currently working on Machine Learning driven Chatbot.
-    🌱 I’m currently learning Best Practices for Machine Learning Algorithms.
-    👯 I’m looking to collaborate on any ML Project.
-    🤔 I’m looking for help with Internship.
-    💬 Ask me about Python.
-    😄 Pronouns: You can give one.
-    ⚡ Fun fact: I hate Marvel movies.
+    
  
 <!--  <h1> Projects<h1>
  
@@ -41,9 +35,9 @@
  
  
    
- <h1>Technical Skills 🛠</h1>
+<!--  <h1>Technical Skills 🛠</h1> -->
 
-<p > 
+<!-- <p > 
  <h3> Languages </h3>
  <div>
   
@@ -83,21 +77,21 @@
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  </div>
 
-</p>  
+</p>   -->
  
  ---  
  
    
  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi25jaiswal&layout=compact&theme=midnight-purple"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=ayushi25jaiswal&show_icons=true&theme=cobalt"></img>
+
 </div>  
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi25jaiswal&theme=cobalt" alt="ayushi25jaiswal" />
   </div> 
 
-<div align="center">
-<img src="https://img.shields.io/github/followers/ayushi25jaiswal.svg?style=social&label=Follow"></img>
+<div align="center"
+
 
 <img src="https://gpvc.arturio.dev/ayushi25jaiswal"></img>
 </div>
