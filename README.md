@@ -1,24 +1,10 @@
-<img src="https://user-images.githubusercontent.com/56766678/151759339-06a302b0-6caa-42ab-9802-776e6769eae5.png" alt="myBanner" height=300px width=100%>
-<h1 align="center">🍁 Hi Eveyone 🍁 </h1>
+<h1 align="center"> Hola 😃 </h1>
 
 
 --- 
 
  
 <div align="center">
- <a href="https://www.linkedin.com/in/ayushi-jaiswal-69804a216" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://ayushi-blog.herokuapp.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/56766678/151764755-23af64f6-baae-41f8-b273-2fc0e07271fc.png" alt=github style="margin-bottom: 5px; height:30px ; width:30px; padding:10px" />
-</a>  
-
- 
-
-**I am a Python Developer❤, currently a third year student pursuing Bachelor of engineering in information technology at Rajasthan Technical University. I am slow walker but never walk backwards. New technologies fascinates me, trying my best to keep up pace with 🍃.**
-
-    
- 
 <!--  <h1> Projects<h1>
  
   <div>
