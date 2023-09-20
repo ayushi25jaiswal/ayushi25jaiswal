@@ -1,86 +1,23 @@
-<h1 align="center"> Hola 😃 </h1>
+<h1 align="center">Hi 👋, I'm Ayushi</h1>
+<h3 align="center">Full Stack developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi25jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi25jaiswal" /> </p>
 
---- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi25jaiswal" alt="ayushi25jaiswal" /></a> </p>
 
- 
-<div align="center">
-<!--  <h1> Projects<h1>
- 
-  <div>
- <img src="https://user-images.githubusercontent.com/56766678/151760880-83f1690f-75c6-4a96-96f0-fc78aaded1ce.png" alt="ayushi-blog" style="height:250px; width:350px; float: left;padding-right: 20px">
-  </div>
-  
-  <div>
-   <div> <img src="https://user-images.githubusercontent.com/56766678/151761084-0a7d8084-a10f-4c36-a0cd-f2fd7a8fb82b.png" alt="RAKSHA" style="height:250px; width:350px; float: left;"></div>
-  </div>
-  <figure>
-  <figcaption>Ayushi_Blog</figcaption>
-   <img src="https://user-images.githubusercontent.com/56766678/151760880-83f1690f-75c6-4a96-96f0-fc78aaded1ce.png" alt="ayushi-blog" style="height:250px; width:350px; float: left;padding-right: 20px">
-</figure> -->
- 
- 
-   
-<!--  <h1>Technical Skills 🛠</h1> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<!-- <p > 
- <h3> Languages </h3>
- <div>
-  
-   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-%B1D0E0.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- </div>
- 
- <h3> Libraries </h3>
- <div>
-  
- <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  
- <img alt="Pandas" src="https://img.shields.io/badge/Pandas-FF6464?style=for-the-badge&logo=pandas&logoColor=white" />
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-24A19C?style=for-the-badge&logo=TensorFlow&logoColor=white" />
- <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-92A9BD?style=for-the-badge&logo=PyTorch&logoColor=white" />
- <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-D96098?style=for-the-badge&logo=matplotlib&logoColor=white" />
- <img alt="Scikit-learn " src="https://img.shields.io/badge/Scikit-learn -B3541E?style=for-the-badge&logo=Scikit-learn &logoColor=white" />
- <img alt="jquery" src="https://img.shields.io/badge/jquery-FFBD35?style=for-the-badge&logo=jquery&logoColor=white" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
- </div>
-<h3> FrameWorks </h3>
- <div>
-   <img alt="Django" src="https://img.shields.io/badge/Django-2D4263?style=for-the-badge&logo=Django&logoColor=white" />
-   <img alt="Flask" src="https://img.shields.io/badge/Flask-781D42?style=for-the-badge&logo=Flask&logoColor=white" />
-   <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi25jaiswal&show_icons=true&locale=en&layout=compact" alt="ayushi25jaiswal" /></p>
 
- <h3>Tools </h3>
- <div>
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushi25jaiswal&show_icons=true&locale=en" alt="ayushi25jaiswal" /></p>
 
-</p>   -->
- 
- ---  
- 
-   
- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi25jaiswal&layout=compact&theme=midnight-purple"></img>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi25jaiswal&" alt="ayushi25jaiswal" /></p>
 
-</div>  
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi25jaiswal&theme=cobalt" alt="ayushi25jaiswal" />
-  </div> 
-
-<div align="center"
-
-
-<img src="https://gpvc.arturio.dev/ayushi25jaiswal"></img>
-</div>
 
 
 
