@@ -1,23 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ayushi</h1>
-<h3 align="center">Full Stack developer</h3>
+<img src="https://github.com/ayushi25jaiswal/ayushi-blog/assets/56766678/d93cdd74-6a85-4fd0-8b36-8f91d331e962">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi25jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi25jaiswal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi25jaiswal" alt="ayushi25jaiswal" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<a href="https://github.com/ayushi25jaiswal"><img src="https://d33wubrfki0l68.cloudfront.net/a040d3fe135a512291b3bcab94c329c590e5c275/a2511/images/github-octocat.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ayushi-jaiswal-69804a216/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://ayushi25.hashnode.dev/"><img src="https://github.com/ayushi25jaiswal/ayushi-blog/assets/56766678/d77104da-2b4d-4b34-a7e2-cefa53db3987" width="60" height="60">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi25jaiswal&show_icons=true&locale=en&layout=compact" alt="ayushi25jaiswal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushi25jaiswal&show_icons=true&locale=en" alt="ayushi25jaiswal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi25jaiswal&" alt="ayushi25jaiswal" /></p>
+<p align="center">
+  <img alt="GitHub User's view" src="https://komarev.com/ghpvc/?username=ayushi25jaiswal">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ayushi25jaiswal?color=yellow&label=%20Stars%20">
+</p>
 
 
+<p align = "center"><b>
+I have graduated from Rajasthan Technical University with a Bachelor's in Information Technology.</b>
+</p>
 
+<p align = "center">
+I like to constantly challenge myself, pushing my boundaries and enriching my experiences. <br>I am passionately curious about new technologies and a committed & curious developer. 
+</p>
+
+---
+
+| Interest | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Web%20Development-%23C05CD4?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Web%203-%23AA52BC?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-BlockChain-%239547A5?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Full%20Stack-%23803D8D?style=for-the-badge"> |
+| :---: | :---: |
+| <b>Languages & Tools</b>    | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-C%2B%2B-%23FFEA61?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Python-%23FFDD3C?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-JAVASCRIPT-%23E08307?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-NodeJs-%23F55301?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-React-%23DE4B00?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Git-%23F03801?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Docker-%23E60001?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-SQL-%239D0700?style=for-the-badge"> |
+
+---
+
+<p align = "center">
+  <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
+</p>
+
+<br>
+
+<p align = "center">
+<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=ayushi25jaiswal&theme=nightowl&show_icons=true" />
+<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi25jaiswal&layout=compact" />
+</p>
+
+---
 
