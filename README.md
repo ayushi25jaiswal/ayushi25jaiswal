@@ -24,6 +24,11 @@ I like to constantly challenge myself, pushing my boundaries and enriching my ex
 | :---: | :---: |
 | <b>Languages & Tools</b>    | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-C%2B%2B-%23FFEA61?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Python-%23FFDD3C?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-JAVASCRIPT-%23E08307?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-NodeJs-%23F55301?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-React-%23DE4B00?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Git-%23F03801?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Docker-%23E60001?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-SQL-%239D0700?style=for-the-badge"> |
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
+
 ---
 
 <p align = "center">
