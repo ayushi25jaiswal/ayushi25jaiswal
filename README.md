@@ -26,7 +26,7 @@ I like to constantly challenge myself, pushing my boundaries and enriching my ex
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💫 [Object Oriented Programming in Javascript](https://ayushi25.hashnode.dev/object-oriented-programming-in-javascript)<!-- BLOGPOSTS:END -->
 
 
 ---
