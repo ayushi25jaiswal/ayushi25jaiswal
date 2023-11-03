@@ -1,7 +1,7 @@
 <img src="https://github.com/ayushi25jaiswal/ayushi-blog/assets/56766678/d93cdd74-6a85-4fd0-8b36-8f91d331e962">
 
 <p align="center">
-<a href="https://github.com/ayushi25jaiswal"><img src="https://d33wubrfki0l68.cloudfront.net/a040d3fe135a512291b3bcab94c329c590e5c275/a2511/images/github-octocat.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ayushi-jaiswal-69804a216/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://ayushi25.hashnode.dev/"><img src="https://github.com/ayushi25jaiswal/ayushi-blog/assets/56766678/d77104da-2b4d-4b34-a7e2-cefa53db3987" width="60" height="60">
+<a href="https://github.com/ayushi25jaiswal"><img src="https://d33wubrfki0l68.cloudfront.net/a040d3fe135a512291b3bcab94c329c590e5c275/a2511/images/github-octocat.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ayushi-jaiswal-69804a216/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://ayushi25.hashnode.dev/"><img src="https://github.com/ayushi25jaiswal/ayushi25jaiswal/blob/main/brand-icon.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -43,4 +43,5 @@ I like to constantly challenge myself, pushing my boundaries and enriching my ex
 </p>
 
 ---
+
 
